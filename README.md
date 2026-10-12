@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/readme-banner.svg" alt="claude-code-source-code-full project banner" width="100%" />
+</p>
+
 <div align="center">
 
 # Claude Code Source Snapshot
